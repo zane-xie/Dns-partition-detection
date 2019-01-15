@@ -8,7 +8,7 @@ How to install Kyoto Tycoon is explained in the specification.
 
   README         - this file
   effect         - Description example
-  ChangeLog      - history of enhancement
+  dig            - A dns tool that supports +subnet=
 
 
 Contents of the directory tree is below.
