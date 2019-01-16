@@ -1,6 +1,8 @@
 
  ===== Dns partition detection: a handy tools =====
- 
+
+Please read the following documents with a WWW browser.
+How to install Kyoto Tycoon is explained in the specification.
  all
  
  all
