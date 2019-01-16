@@ -6,15 +6,15 @@
 Please read the following documents with a WWW browser.	 <br> 
 How to install Kyoto Tycoon is explained in the specification.<br>
 
-  README         - this file
-  effect         - Description example
-  dig            - A dns tool that supports +subnet=
+		README         - this file
+		effect         - Description example
+		dig            - A dns tool that supports +subnet=
 
 Contents of the directory tree is below.
 
-  ./             - sources of Dns partition detection
-  ./doc/         - manuals and specifications
-  ./example/     - sample code for tutorial
+		./             - sources of Dns partition detection
+		./doc/         - manuals and specifications
+		./example/     - sample code for tutorial
 
 
 Dns partition detection is a Operation and maintenance tools.<br>
