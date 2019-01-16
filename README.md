@@ -10,7 +10,7 @@ How to install Kyoto Tycoon is explained in the specification.<br>
 		effect         - Description example
 		dig            - A dns tool that supports +subnet=
 
-Contents of the directory tree is below.
+Contents of the directory tree is below.<br>
 
 		./             - sources of Dns partition detection
 		./doc/         - manuals and specifications
