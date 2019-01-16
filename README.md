@@ -8,7 +8,6 @@ README         - this file
 effect         - Description example
 dig            - A dns tool that supports +subnet=
 
-
 Contents of the directory tree is below.
 
   ./             - sources of Dns partition detection
