@@ -7,8 +7,9 @@ Please read the following documents with a WWW browser.	 <br>
 How to install Kyoto Tycoon is explained in the specification.<br>
 
 		README         - this file
-		effect         - Description example
-		dig            - A dns tool that supports +subnet=
+		effect         - description example
+		dig            - a dns tool that supports +subnet=
+		dnsfind.py     - python program that implements functionality 
 
 Contents of the directory tree is below.<br>
 
